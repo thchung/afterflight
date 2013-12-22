@@ -8,7 +8,7 @@ afterflight
 Installing the development version
 **********************************
 
-#. make sure you have scipy and matplotlib installed on your system. On ubuntu, that means doing: ``sudo apt-get install scipy matlplotlib``. These packages often do not install correctly through the python package system.
+#. make sure you have scipy and matplotlib installed on your system. On ubuntu, that means doing: ``sudo apt-get install python-scipy python-matplotlib``. These packages often do not install correctly through the python package system.
 
 #. Clone the afterflight repository to with ``git clone https://github.com/foobarbecue/afterflight.git``
 
